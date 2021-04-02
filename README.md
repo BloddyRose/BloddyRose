@@ -16,7 +16,7 @@
 <br>
 
 <br>
-
+<!--
   <a href="">
     <img align="left" alt="BloddyRose | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -29,5 +29,5 @@
   <a href="">
     <img align="left" alt="BloddyRose | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-
+-->
 <br><br><br><br>
